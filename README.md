@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programming was the first thing that made sense to me — and once it did, I haven't really stopped.<br><br>I learn by building, not just reading. When something breaks, I work through it myself — think it through, sketch the logic, try it again — before reaching for outside help. And honestly, I don't care if something works unless I actually know why it works.<br><br>Currently deep in Next.js, steadily expanding into full-stack development — one technology, one problem, one fix at a time.<br><br>⚡ Curious by nature. Stubborn by necessity. Always leveling up.<br>
+Hi, I'm a developer who finds programming genuinely fascinating — it's the first thing that ever made complete sense to me.<br><br>I learn by building, not just reading. When something breaks, I work through it myself — think it through, sketch the logic, try it again — before reaching for outside help. And honestly, I don't care if something works unless I actually know why it works.<br><br>Currently deep in Next.js, steadily expanding into full-stack development — one technology, one problem, one fix at a time.<br><br>⚡ Curious by default. Persistent by habit.<br>
 
 
 ## 🌐 Socials:
