@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m a developer who spends more time debugging than coding… but somehow things still work 😄<br><br>I recently completed my BCA and now I’m focused on building a career in web development. I enjoy turning ideas into actual working projects (and occasionally breaking them right after).<br><br>Currently learning, building, and trying to make my code cleaner than my browser history.<br><br>When I’m not coding, I’m probably watching sci-fi, thinking about cybersecurity, or convincing myself “this bug will only take 5 minutes.”<br><br>⚡ Always learning. Always building. Sometimes sleeping.<br>
+Programming was the first thing that made sense to me — and once it did, I haven't really stopped.<br><br>I learn by building, not just reading. When something breaks, I work through it myself — think it through, sketch the logic, try it again — before reaching for outside help. And honestly, I don't care if something works unless I actually know why it works.<br><br>Currently deep in Next.js, steadily expanding into full-stack development — one technology, one problem, one fix at a time.<br><br>⚡ Curious by nature. Stubborn by necessity. Always leveling up.<br>
 
 
 ## 🌐 Socials:
